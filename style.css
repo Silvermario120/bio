@@ -1,0 +1,21 @@
+.col-sm-12 {
+	text-align: center;
+	font-family: "Schwabacher";
+}
+
+p {
+	text-align: center;
+	font-family: "ZCOOL XiaoWei";
+	font-size: 25px;
+}
+
+body {
+	background-image: url(img/papyrus.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+img{
+	height: 200px;
+	width: 200px;
+}
